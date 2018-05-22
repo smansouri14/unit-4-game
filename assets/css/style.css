@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css?family=Asap:400,500,700');
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#title {
+    color: black;
+    font-size: 44px;
+    font-display: bold;
+    text-align: center;
+    width: 100%;
+    background:#495ced;
+    padding: 20px;
+    font-family: asap, sans-serif;
+    color: white;
+}
+
+#directions {
+    font-family: asap, sans-serif;
+    width: 100%;
+    background:#c0cace;
+    text-align: center;
+    padding: 20px 0;
+}
+
+#wins {
+    font-family: asap, sans-serif;
+    float: left;
+    width: 50%;
+    background:#05137f;
+    text-align: center;
+    padding: 20px 0;
+   color: white;
+   font-size: 28px;
+}
+
+#losses {
+    font-family: asap, sans-serif;
+    float: right;
+    background: #495ced;
+    width: 50%;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 28px;
+    color: white;
+    border: 2px solid #05137f;
+}
+
+#computerScore {
+    font-family: asap, sans-serif;
+    float: left;
+    width: 50%;
+    background:#495ced;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 28px;
+    color: white;
+    border: 2px solid #05137f;
+}
+
+#userScore {
+    font-family: asap, sans-serif;
+    float: left;
+    width: 50%;
+    background:#05137f;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 28px;
+    color: white;
+}
+
+#btn1 {
+    width: 25%;
+    padding: 20px 0;
+    float: left;
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+#btn1:hover {
+    cursor: pointer;
+    background-color:pink;
+} 
+
+#btn2 {
+    width: 25%;
+    padding: 20px 0;
+    float: left;
+    background: black;
+    text-align: center;
+}
+
+#btn2:hover {
+    cursor: pointer;
+    background-color:pink;
+} 
+
+#btn3 {
+    width: 25%;
+    padding: 20px 0;
+    float: left;
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+#btn3:hover {
+    cursor: pointer;
+    background-color:pink;
+} 
+
+#btn4 {
+    width: 25%;
+    padding: 20px 0;
+    float: left;
+    background: black;
+    text-align: center; 
+}  
+
+#btn4:hover {
+    cursor: pointer;
+    background-color:pink;
+} 
+
+.choices {
+    margin-top:50px;
+    text-align: center;
+    
+} 
+
+.choice {
+    display: inline-block;
+    border: 4px solid #495ced;
+    border-radius: 25%;
+    transition: all 0.3s ease;
+}
+
+ #bottom {
+    color: black;
+    font-size: 44px;
+    font-display: bold;
+    text-align: center;
+    width: 100%;
+    background:#495ced;
+    padding: 20px;
+    font-family: asap, sans-serif;
+    color: white;
+    height: 600px;
+    margin-top:100px;
+}
