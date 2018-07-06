@@ -1,6 +1,8 @@
 # unit-4-game
 #Crystal Collector
 
+## link to demo https://smansouri14.github.io/unit-4-game/
+
 ##You will be given a random number at the start of each game.
             
 ##There are four crystal below. By clicking you will add a specific number to your total score. 
